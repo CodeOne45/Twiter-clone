@@ -1,0 +1,42 @@
+body {
+    background-color: #e6ecf0;
+    padding-top: 54px;
+}
+
+.titre{
+    text-align: center;
+}
+
+.container, .loading{
+    width: 50%;
+    margin: 0 auto;
+}
+
+#buttonDTweet{
+    margin-top: 8px;
+    border-radius: 100px;
+    border: 1px solid #1da1f2;
+    color: #fff;
+    background-color: #4AB3F4;
+    border-color: transparent;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+#buttonDTweet:hover{
+    background-color: #1DA1F2;
+  border-color: #1DA1F2;
+cursor:pointer;
+}
+
+.loading{
+    text-align: center;
+    max-width: 50%;
+    height: auto;
+}
+
+
+
+  
+
+
